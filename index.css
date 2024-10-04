@@ -38,7 +38,7 @@ body{
   }
   
 .msg-container {
-    height: 100vmin;
+    height: 200vmin;
     display: flex;
     justify-content: center;
     align-items: center;
